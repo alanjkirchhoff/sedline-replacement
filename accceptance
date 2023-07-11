@@ -1,0 +1,6 @@
+### Testing proceedure
+  1. Configure a test VLAN in SAC2
+  2. Map test VLAN to hardware port
+  3. MAP service to an IP address on that test VLAN
+  3. Use a test laptop not connected to corp.nandps.com, and enable remote deesktop 
+  4. White list traffic from home users to remote desktop into that test laptop.
